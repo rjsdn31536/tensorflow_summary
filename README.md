@@ -1,1 +1,1 @@
-summary
+개인적으로 tensorflow를 공부하며 요약
